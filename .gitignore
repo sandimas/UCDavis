@@ -28,3 +28,9 @@ LocalPreferences.toml
 JuliaLocalPreferences.toml
 
 james/
+DEAC/curr.png
+DEAC/DOS.png
+DEAC/spec.png
+ana_cont/results/
+DEAC/results
+*.zip
